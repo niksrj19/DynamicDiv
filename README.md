@@ -1,2 +1,0 @@
-# DynamicDiv
-Created with CodeSandbox
